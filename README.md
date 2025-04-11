@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</p>
+
 <h1 align="center">Olá! Eu sou o Luiz Guni 👋</h1>
 <h3 align="center">Desenvolvedor de Softwere em formação | Focado em soluções escaláveis e APIs de alta performance 🚀</h3>
 
