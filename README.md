@@ -46,7 +46,7 @@ Estou sempre em busca de **novos desafios** para evoluir, colaborar e gerar impa
 
 ### 📫 Como me encontrar
 
-- 💼 [Portfólio Online](https://luizguni.github.io/Projeto-Portfolio)  
+- 💼 [Portfólio Online](https://luizguni.github.io/) 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/luizguni/)  
 - 📧 Email: luizguny@email.com  
 
