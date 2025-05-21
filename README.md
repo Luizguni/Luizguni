@@ -29,6 +29,9 @@ Estou sempre em busca de **novos desafios** para evoluir, colaborar e gerar impa
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![ABAP](https://img.shields.io/badge/ABAP-009FDA?style=for-the-badge&logo=sap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -42,7 +45,6 @@ Estou sempre em busca de **novos desafios** para evoluir, colaborar e gerar impa
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Luizguni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizguni&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
 
 ---
 
